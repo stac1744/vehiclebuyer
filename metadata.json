@@ -1,0 +1,5 @@
+{
+  "name": "Vehicle Liquidation Application",
+  "description": "An advanced tool that provides instant vehicle valuation quotes by leveraging the Gemini API. Users can input vehicle details, condition, and seller information to receive a detailed breakdown of the vehicle's worth.",
+  "requestFramePermissions": []
+}
